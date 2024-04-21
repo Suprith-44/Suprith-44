@@ -1,6 +1,9 @@
 # Hey everyone, I'm Suprith 👋
 ### -> Currently pursuing a dual-degree- B.tech in Computer Science at PES Univeristy and BS in Data Science from IIT Madras
-### -> Worked on various projects related to ML and web developent 
+### -> Worked on various projects related to ML, blockchain and web developent 
+### -> Passionate about research and innovation.
+
+
 
 
 <!--
