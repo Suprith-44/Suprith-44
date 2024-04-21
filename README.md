@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey everyone, I'm Suprith 👋
+# -> Currently pursuing a dual-degree- B.tech in Computer Science at PES Univeristy and BS in Data Science from IIT Madras
+# -> Worked on various projects related to ML and web developent 
+
 
 <!--
 **Suprith-44/Suprith-44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
