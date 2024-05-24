@@ -1,7 +1,7 @@
 # Hey everyone, I'm Suprith 
 ### -> Data Science Diploma Graduate from IIT Madras
 ### -> Deep-Learning Research Intern at Central Road Research Institute, New Delhi
-### -> Pursuing B.tech in Computer science from PES University
+### -> Pursuing B.tech in Computer science at PES University
 ### -> Worked on various projects related to ML, blockchain and web developent 
 ### -> Passionate about research and innovation.
 
