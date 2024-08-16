@@ -14,7 +14,7 @@
 
 <h3 align="left">I am currently working with:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,html,css,tailwind,js,react,nextjs,vite,go,postman,mongodb,mysql,figma,matlab,md,wordpress,netlify,vercel,kali,linux,ubuntu,flask,blender,git&theme=dark&perline=13)](https://github.com/siri-n-shetty)
+[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,tailwind,js,react,nextjs,mongodb,mysql,figma,netlify,vercel,linux,ubuntu,flask,git&theme=dark&perline=13)](https://github.com/Suprith-44)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Suprith-44&&style=flat-square" align="center" />
