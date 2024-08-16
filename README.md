@@ -12,7 +12,8 @@
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/suprithhhh)
 <br>
 
-<h3 align="left">My skills:</h3>
+<h3 align="left">I am currently working with:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,html,css,tailwind,js,react,nextjs,vite,go,postman,mongodb,mysql,figma,matlab,md,wordpress,netlify,vercel,kali,linux,ubuntu,flask,blender,git&theme=dark&perline=13)](https://github.com/siri-n-shetty)
 
 <div align="center">
