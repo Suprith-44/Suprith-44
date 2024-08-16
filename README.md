@@ -12,6 +12,8 @@
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/suprithhhh)
 <br>
 
+[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,tailwind,js,react,nextjs,mongodb,mysql,figma,netlify,vercel,flask,git&theme=dark&perline=13)](https://github.com/Suprith-44)
+
 
 
 
