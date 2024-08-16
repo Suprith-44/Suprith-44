@@ -12,10 +12,8 @@
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/suprithhhh)
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My skills:</h3>
 [![My Skills](https://skillicons.dev/icons?i=py,c,html,css,tailwind,js,react,nextjs,mongodb,mysql,figma,netlify,vercel,flask,git&theme=dark&perline=13)](https://github.com/Suprith-44)
-<br>
-
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Suprith-44&&style=flat-square" align="center" />
