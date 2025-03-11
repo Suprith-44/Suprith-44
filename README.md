@@ -1,9 +1,10 @@
 # Suprith S 
 ## Portfolio: https://supriths.vercel.app
-### -> Pursuing B.tech in Computer Science and Engineering at PES University
-### -> Data Science Diploma Graduate from IIT Madras
-### -> Deep-Learning Research Intern at Central Road Research Institute, New Delhi
-### -> Worked on various projects related to Gen AI, Computer Vision, ML, blockchain and web development.
+### -> Pursuing B.tech in Computer Science and Engineering - PES University
+### -> Data Science Diploma Graduate - IIT Madras
+### -> Teaching Assistant for Statistics in Data Science - PES University
+### -> Deep Learning Research Intern at Central Road Research Institute, New Delhi
+### -> Worked on various projects related to Gen AI, Computer Vision, ML, Blockchain and Web Development.
 ### -> Passionate about research and innovation.
 
 <h3 align="left">Connect with me:</h3>
