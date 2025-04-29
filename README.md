@@ -3,6 +3,7 @@
 ### -> Pursuing B.tech in Computer Science and Engineering - PES University
 ### -> Data Science Diploma Graduate - IIT Madras
 ### -> Teaching Assistant for Statistics in Data Science - PES University
+### -> Head of Technology, Weal - PES University
 ### -> Deep Learning Research Intern at Central Road Research Institute, New Delhi
 ### -> Worked on various projects related to Gen AI, Computer Vision, ML, Blockchain and Web Development.
 ### -> Passionate about research and innovation.
