@@ -17,13 +17,13 @@
 <h3 align="center">Github Stats</h3>
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Suprith-44&border_radius=10&theme=dracula" alt="Suprith-44" /> 
-</div>
+<!-- </div>
 <h3 align="center">Github Streak</h3>
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Suprith-44&theme=dracula&border_radius=10&fire=DD2727" alt="Suprith-44" />
 </div>  
 
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
-
+ -->
 #
 
