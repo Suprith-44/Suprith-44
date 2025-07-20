@@ -1,12 +1,5 @@
 # Suprith S 
 ## Portfolio: https://supriths.vercel.app
-### -> Pursuing B.tech in Computer Science and Engineering - PES University
-### -> Data Science Diploma Graduate - IIT Madras
-### -> Teaching Assistant for Statistics in Data Science - PES University
-### -> Head of Technology, Weal - PES University
-### -> Deep Learning Research Intern at Central Road Research Institute, New Delhi
-### -> Worked on various projects related to Gen AI, Computer Vision, ML, Blockchain and Web Development.
-### -> Passionate about research and innovation.
 
 <h3 align="left">Connect with me:</h3>
 
@@ -14,10 +7,6 @@
 [![](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suprith-s44/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/suprithhhh)
 <br>
-
-<h3 align="left">I am currently working with:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,tailwind,js,react,nextjs,mongodb,mysql,figma,netlify,vercel,linux,ubuntu,flask,git&theme=dark&perline=13)](https://github.com/Suprith-44)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Suprith-44&&style=flat-square" align="center" />
@@ -38,19 +27,3 @@
 
 #
 
-
-
-<!--
-**Suprith-44/Suprith-44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
